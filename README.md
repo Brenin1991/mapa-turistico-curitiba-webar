@@ -42,7 +42,7 @@ A experiência WebAR está disponível online:
 **[AR Mapa 3D de Curitiba](https://ar-app-teste.fly.dev)**
 
 ## Target para ativar a experiência
-![Target](Assets/StreamingAssets/target.png)
+![Target](target.png)
 
 ## Vídeo demonstrativo
 **[Vídeo](https://ar-app-teste.fly.dev)**
