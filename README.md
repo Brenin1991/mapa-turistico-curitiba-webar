@@ -41,5 +41,8 @@ A aplicação estará acessível em `http://localhost:3000`.
 A experiência WebAR está disponível online:
 **[AR Mapa 3D de Curitiba](https://ar-app-teste.fly.dev)**
 
+## Target para ativar a experiência
+![Target](assets/StreamingAssets/target.png)
+
 ## Vídeo demonstrativo
 **[Vídeo](https://ar-app-teste.fly.dev)**
