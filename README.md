@@ -45,4 +45,4 @@ A experiência WebAR está disponível online:
 ![Target](target.png)
 
 ## Vídeo demonstrativo
-**[Vídeo](https://ar-app-teste.fly.dev)**
+[![Vídeo Demonstrativo](thumb.jpeg)](https://www.youtube.com/watch?v=yChBwl0MuMQ)
